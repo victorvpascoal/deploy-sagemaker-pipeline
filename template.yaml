@@ -11,7 +11,7 @@ Parameters:
   InstanceType:
     Type: String
 
-Resource:
+Resources:
 
   Model:
     Type: AWS::SageMaker::Model
