@@ -1,8 +1,8 @@
 {
     "Parameters": {
         "ExecutionRoleArn": "arn:aws:iam::735421146733:role/AmazonSageMaker-ExecutionRole",
-        "Image": "811284229777.dkr.ecr.us-east-1.amazonaws.com/xgboost:latest",
-        "ModelDataUrl": "s3://sagemaker-us-east-1-735421146733/output/xgboost-2021-07-10-06-50-46-528/output/model.tar.gz",
+        "Image": "825641698319.dkr.ecr.us-east-2.amazonaws.com/xgboost:latest",
+        "ModelDataUrl": "s3://sagemaker-us-east-2-735421146733/output/xgboost-2021-07-10-07-38-19-937/output/model.tar.gz",
         "InitialInstanceCount": "1",
         "InstanceType": "ml.m5.large"
     }
